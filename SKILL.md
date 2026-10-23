@@ -4,10 +4,12 @@ slug: find-skills
 displayName: 技能发现·Find Skills
 version: "1.7.0"
 description: 不知道装什么技能？想让 AI 自己找到最合适的技能？技能发现·Find Skills 是场景驱动+关键词双模式的技能发现工具（skill discovery / skill finder / install skills）：用自然语言描述场景/需求（如"我想做一个海报""帮我分析股票""找个薅羊毛技能"），或明确说"安装技能/find skills/找个skill/有没有做XX的技能"时，自动从官方内置、本地已安装、SkillHub、虾评、GitHub、ClawHub 六层联合搜索并推荐最合适的技能，支持一键安装。已完全替代官方原 find-skills 插件。触发词：找技能、安装技能、技能推荐、技能发现、find skills、skill discovery、install skill。
+author: guipi888
+license: MIT
 agent_created: true
-xiaping_trigger: ["AI","效率","技能","工具"]
-xiaping_category: ["效率工具"]
-xiaping_tags: ["AI工具","技能发现","WorkBuddy"]
+trigger: ["找技能","安装技能","技能推荐","技能发现","find skills","skill discovery","装个技能","有没有做XX的技能"]
+category: ["效率工具"]
+tags: ["技能发现","找技能","安装技能","AI工具","skill discovery","WorkBuddy"]
 xiaping_eval_strategy: developer
 ---
 
